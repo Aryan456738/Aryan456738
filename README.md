@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-    <img src="assets/dark.svg" alt="Aryan — AI, Machine Learning & Cybersecurity" width="100%">
+    <img src="assets/dark(1).svg" alt="Aryan — AI, Machine Learning & Cybersecurity" width="100%">
   </picture>
 </p>
 
