@@ -62,10 +62,4 @@ Vocabulary / word-list project.
 
 More AI + Machine Learning + Cybersecurity projects coming soon...
 
-## 🔗 Connect With Me
 
-**GitHub:**
-https://github.com/Aryan456738
-
-**LinkedIn:**
-https://www.linkedin.com/in/aryan-g-674413373/
