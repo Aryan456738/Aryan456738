@@ -11,7 +11,7 @@
   <a href="https://github.com/Aryan456738"><img src="https://img.shields.io/badge/GitHub-Aryan456738-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/aryan-g-674413373/"><img src="https://img.shields.io/badge/LinkedIn-Aryan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-## 🧠 About Me
+ 🧠 About Me
 
 * 🎓 B.Sc. Computer Science — 3rd Year
 * 🤖 Interested in Artificial Intelligence & Machine Learning
@@ -40,7 +40,7 @@
 🌐 Web & Tools
 
 <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
-## 🚀 Projects
+ 🚀 Projects
 
 ### Rancho — AI Voice Assistant
 
@@ -58,7 +58,7 @@ AI-powered accessibility and navigation project focused on helping visually impa
 
 Vocabulary / word-list project.
 
-## 🔮 Upcoming
+ 🔮 Upcoming
 
 More AI + Machine Learning + Cybersecurity projects coming soon...
 
