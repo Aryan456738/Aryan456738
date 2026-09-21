@@ -1,23 +1,16 @@
-<p align="center">
-  <img
-    src="./assets/dark.svg"
-    width="100%"
-    alt="Aryan - AI, Machine Learning and Cybersecurity"
-  />
-</p>
-
-<h1 align="center">Hi 👋, I'm Aryan</h1>
 
 <p align="center">
-  B.Sc. Computer Science — 3rd Year
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+    <img src="assets/dark.svg" alt="Aryan — AI, Machine Learning & Cybersecurity" width="100%">
+  </picture>
 </p>
 
 <p align="center">
-  AI & Machine Learning • Cybersecurity • Ethical Hacking • Python
+  <a href="https://github.com/Aryan456738"><img src="https://img.shields.io/badge/GitHub-Aryan456738-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/aryan-g-674413373/"><img src="https://img.shields.io/badge/LinkedIn-Aryan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
----
-
 ## 🧠 About Me
 
 * 🎓 B.Sc. Computer Science — 3rd Year
