@@ -20,20 +20,26 @@
 * 🐧 Working with Bash & Kali Linux
 * 🧠 Building AI-powered applications and assistants
 
-## 🛠️ Skills
+🛠️ Tech Stack
+💻 Programming
 
-**Programming:** Python · C++ · Bash
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" /> </p>
 
-**AI & ML:** Artificial Intelligence · Machine Learning · Generative AI · AI Assistants
+🤖 AI & Machine Learning
 
-**Scientific Computing:** NumPy · SciPy
+<p> <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Generative%20AI-10B981?style=for-the-badge&logo=google-gemini&logoColor=white" /> <img src="https://img.shields.io/badge/AI%20Assistants-06B6D4?style=for-the-badge&logo=robotframework&logoColor=white" /> </p>
 
-**Cybersecurity:** Ethical Hacking · Kali Linux · Cybersecurity Fundamentals
+📊 Scientific Computing
 
-**Web:** HTML · CSS
+<p> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" /> </p>
 
-**Tools:** Git · GitHub
+🔐 Cybersecurity
 
+<p> <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/Ethical%20Hacking-DC2626?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> </p>
+
+🌐 Web & Tools
+
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
 ## 🚀 Projects
 
 ### Rancho — AI Voice Assistant
